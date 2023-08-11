@@ -6,6 +6,9 @@
 
 Our project’s aim is to predict position of smartphones based on the real time sensor data, provided by indoor positioning technology company XYZ10 in partnership with Microsoft Research. The main task is to predict the floor and waypoint at specific time provided in the file named submission.csv from the existing data of site path file.
 
+Below is the link to dataset.
+https://www.kaggle.com/competitions/indoor-location-navigation
+
 While working on the executing plan we would like to provide great thanks to the authors of kaggle note book whose  NOTEBOOK has been boiler plate for our code execution and implementation.
 
 - Housuke
