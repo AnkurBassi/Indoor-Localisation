@@ -24,7 +24,7 @@ to access the notebook to start away directly with the hyperparameter tuning
 - All the data can be downloaded from https://drive.google.com/drive/folders/1--XrdfzFElOb1gPBv_aeMe1doX_Yo2WN?usp=drive_link. The jupyter notebook file "Copy of cps part_2.ipynb" can be run locally just replace the indoor-location-competition with downloaded folder
 
 - In the above notebook we are directly using the preprocessed data, to delve deep into data preprocessing kindly follow the below link
-- https://colab.research.google.com/drive/1prEplXrwZ7TI-4f_sfyrprMyovF2ii78?usp=sharing. Kindly note the data processing will take time so we have to remain patient to get the final data.
+  https://colab.research.google.com/drive/1prEplXrwZ7TI-4f_sfyrprMyovF2ii78?usp=sharing. Kindly note the data processing will take time so we have to remain patient to get the final data.
 
 To understand more kindly go through the presentation cps_part2.ppt.
 To check the video presentation go to this link
